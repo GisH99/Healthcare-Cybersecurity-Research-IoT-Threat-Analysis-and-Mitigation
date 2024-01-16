@@ -1,0 +1,2 @@
+# Healthcare-Cybersecurity-Research-IoT-Threat-Analysis-and-Mitigation
+Researched cybersecurity vulnerabilities within healthcare, with a specific focus on the Internet of Medical Things (IoMT). Analyzed threats, developed effective mitigation strategies for safeguarding patient data and medical devices, and provided valuable recommendations to enhance overall cybersecurity practices in healthcare organizations.
